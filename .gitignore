@@ -1,0 +1,15 @@
+**/build
+**/google-services.json
+**/.gradle
+**/.dart_tool
+**/pubspec.lock
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/local.properties
+**/.env
+**/node_modules
+**/*adminsdk*.json
+**/dist
+**/package-lock.json
+**/Generated*
